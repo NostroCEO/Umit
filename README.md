@@ -54,7 +54,3 @@ AI Content Engine: Developed a custom workflow to automate social media posts an
 🌐 Links & Contact
 🌐 Portfolio: portfolio-barlas-umit.vercel.app
 💼 LinkedIn: Umit Barlas
-
-🐙 GitHub: @votre-pseudo
-
-✉️ Email: [votre-email@exemple.com]
